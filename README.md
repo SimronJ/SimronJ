@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simranjeet also known as Sim</h1>
+<h1 align="center">Hi 👋, I'm Simranjeet also known as Sim/Simmer</h1>
 <h3 align="center">Software Engineer Who has experience with various technologies.</h3>
 
 - 🌱 I’m currently learning **React Native, Marketing, E-commerce, Communication**
